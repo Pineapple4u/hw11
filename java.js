@@ -4,7 +4,7 @@ var bc = b*c;
 var q = prompt("What is 3431 x 8724? :  ");
 var q2 = q.trim();
 
-if (bc = q2){
+if (bc == q2){
     console.log("Correct!")
 }
 
